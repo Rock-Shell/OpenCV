@@ -1,0 +1,37 @@
+no.  program
+1 - Read image and convert it to gray scale
+2 - Capturing video and saving it
+3 - Draw geometric shapes
+4 - setting camera values
+5 - Mouse events
+6 - Mouse events part2
+7 - resizing and adding images
+8 - Bitwise operation on images
+9 - Trackbars and colour mixer
+10- Trackbars part2
+11- Object detection using HSV
+12- Image thresholding
+13- Blurring images
+14- Morphological transformations
+15- Image gradient and edge detection
+16- image pyramids gaussian and Laplacian
+17- drawing contours
+18- Movement detection
+19- Shape detection
+20- Making histograms
+21- Template matching
+22- Hough line transform
+23- probabilistic hough line transform
+24- Hough circle transform
+25- face detection haarcascade pending*
+26- harris corner detection
+27- background substraction
+28- object detection pending*
+29- grabCut, image masking, image disappearing
+30- perspective transformation
+31- convolutional filter
+32- convex hull
+
+BlendImages= Blending images
+CannyEdgeDetector- canny edge detection
+YouCantSeeMe- project
